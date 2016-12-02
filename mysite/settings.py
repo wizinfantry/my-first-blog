@@ -25,7 +25,7 @@ SECRET_KEY = 'ngc-ock+)p+36+wn$q6%ju(6nug4pb2llbd%91c4ei_tzcdvfa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wizinfantry.pythonanywhere.com']
 
 
 # Application definition
